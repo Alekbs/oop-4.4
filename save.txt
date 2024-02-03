@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf8'?>
+<workers><worker><name>Богдан А.А</name><post>лл</post><year>1231</year></worker></workers>
